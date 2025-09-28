@@ -1,0 +1,10 @@
+Pixie Source-Available License v1.0
+
+Copyright (c) **2025** Queer Pixie
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to use the Software for personal, educational, and non-commercial purposes, and for commercial purposes only if the total gross revenue of the business using the Software does not exceed $100,000 USD per year.
+Permission is also granted to redistribute unmodified copies of the Software, including compiled binaries, provided that no fees are charged for access, download, or distribution. This includes prohibitions on paywalls, advertisements on download pages, and bundling with paid products or services.
+Modification of the Software is permitted for personal or internal use only. Modified versions may not be redistributed or used for commercial purposes under any circumstances.
+Contributions to the Software are welcome via pull requests to the original repository. By submitting a contribution, the contributor agrees to license their changes under the terms of this license and grants the maintainer the right to relicense those changes under the GNU Affero General Public License v3.0 (AGPLv3) upon expiration of the license term.
+This license applies for a period of five (5) years from the date of initial public release. After this period, downloadable source code archives released with major versions shall be licensed under the AGPLv3. The original source code hosted in the GitHub repository shall remain under this license indefinitely.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
